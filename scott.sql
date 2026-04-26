@@ -1,4 +1,7 @@
-
+-- Oracle connection en ligne https://freesql.com/ :
+--   connect <username>/<password>@<host>:<port>/<service_name>
+-- if oracle installed locally, you can use:
+--   connect your_user/your_password
 
 DROP USER scott CASCADE;
 
